@@ -10,4 +10,4 @@ spring:
             overrideSystemProperties: false #覆盖系统属性
 
 
-foo: i am foo,but i changed! changed!changed!
+foo: i am lwj,but i git!
