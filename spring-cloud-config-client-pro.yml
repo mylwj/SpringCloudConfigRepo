@@ -1,0 +1,3 @@
+server:
+  port: 8004
+foo: i am not foo
